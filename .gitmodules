@@ -1,0 +1,3 @@
+[submodule "JsonApi"]
+	path = JsonApi
+	url = https://github.com/icedream/jsonapi-client.git
